@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=TextReader
+Comment=A text editor that can read (speech) the text you wrote and able to export the sound file it created.
+Exec=textreader
+Icon=/usr/share/TextReader/assets/icons/textreader.png
+Terminal=false
+Type=Application
+Categories=Utility
+Keywords=reader, speech, record, editor, text, note, write
